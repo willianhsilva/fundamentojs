@@ -20,7 +20,7 @@ if(forma === 'retângulo'){
 
 console.log(area) */
 
-const forma = 'triângulo';
+/* const forma = 'triângulo';
 const altura = 5;
 const cumprimento = 7;
 let area;
@@ -31,4 +31,11 @@ if(forma === 'quadrado'){
     area = (altura*cumprimento)/2;
 }
 
-console.log(area)
+console.log(area) */
+
+//tipagem dinâmica
+//untyped
+
+let minhaVar = 567;
+minhaVar = 'texto';
+minharVar = true;
